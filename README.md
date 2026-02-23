@@ -9,6 +9,8 @@ An all-in-one productivity platform designed to help users plan, organize, and t
 In today’s fast-paced world, managing multiple responsibilities and staying focused on long-term goals can be overwhelming. Spheris 24/7 provides a centralized solution that simplifies task management, goal tracking, and daily organization.
 
 The platform helps users reduce stress, stay focused, and improve productivity through an intuitive and user-centered design.
+Figma Prototype:  
+[https://www.figma.com/file/your-link-here ](https://www.figma.com/design/LTKFVEjSFYWuWxhkG3Te5P/Spheris-UI?node-id=0-1&p=f&t=Bk66PWQRpIZVPH93-0)
 
 ---
 
